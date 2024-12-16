@@ -1,2 +1,2 @@
 # Test_Otomasyon_1
-İlk repo
+## git dersi ilk ödev
